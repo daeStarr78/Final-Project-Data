@@ -1,0 +1,82 @@
+"Notes"	"States"	"States Code"	Count
+	"Alabama"	"01"	580593
+	"Alaska"	"02"	64496
+	"Arizona"	"04"	685458
+	"Arkansas"	"05"	355351
+	"California"	"06"	3801209
+	"Colorado"	"08"	509826
+	"Connecticut"	"09"	497518
+	"Delaware"	"10"	127090
+	"District of Columbia"	"11"	69022
+	"Florida"	"12"	2845472
+	"Georgia"	"13"	1063466
+	"Hawaii"	"15"	160406
+	"Idaho"	"16"	177497
+	"Illinois"	"17"	1571913
+	"Indiana"	"18"	715719
+	"Iowa"	"19"	416690
+	"Kansas"	"20"	342616
+	"Kentucky"	"21"	597188
+	"Louisiana"	"22"	563405
+	"Maine"	"23"	204292
+	"Maryland"	"24"	695709
+	"Massachusetts"	"25"	877039
+	"Michigan"	"26"	1311765
+	"Minnesota"	"27"	658979
+	"Mississippi"	"28"	305135
+	"Missouri"	"29"	749967
+	"Montana"	"30"	134581
+	"Nebraska"	"31"	225042
+	"Nevada"	"32"	283015
+	"New Hampshire"	"33"	185340
+	"New Jersey"	"34"	1206825
+	"New Mexico"	"35"	209647
+	"New York"	"36"	2590172
+	"North Carolina"	"37"	1180849
+	"North Dakota"	"38"	85862
+	"Ohio"	"39"	1507391
+	"Oklahoma"	"40"	450838
+	"Oregon"	"41"	480745
+	"Pennsylvania"	"42"	1835229
+	"Rhode Island"	"44"	150324
+	"South Carolina"	"45"	584261
+	"South Dakota"	"46"	96400
+	"Tennessee"	"47"	773636
+	"Texas"	"48"	2457636
+	"Utah"	"49"	222668
+	"Vermont"	"50"	86666
+	"Virginia"	"51"	886410
+	"Washington"	"53"	816273
+	"West Virginia"	"54"	272095
+	"Wisconsin"	"55"	736776
+	"Wyoming"	"56"	60639
+"Total"			37467141
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2021 Incidence"
+"Query Parameters:"
+"Group By: States"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2021.html for more information."
+"---"
+"Query Date: Dec 10, 2024 4:52:22 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2021, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2023 submission; 2024"
+"release. Accessed at http://wonder.cdc.gov/cancer-v2021.html on Dec 10, 2024 4:52:22 AM"
+"---"
+Caveats:
+"1. These states are missing data for the indicated year: Indiana 2020-2021; Mississippi 1999-2002; South Dakota 1999-2000."
+"2. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"3. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated March 1, 2018, which define"
+"standard groupings of primary cancer sites."
+"4. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
